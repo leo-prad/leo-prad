@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://devforum.roblox.com/u/leoprad2006">
-    <img src="https://img.shields.io/badge/DevForum-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" height="50" alt="Roblox DevForum" />
+    <img src="./assets/roblox-studio.png" height="50" style="border-radius: 12px;" alt="Roblox DevForum" />
   </a>
 </p>
 
