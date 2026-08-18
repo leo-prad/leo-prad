@@ -6,15 +6,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pradyumna-dumane-34b162392/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:prad.dumane@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://devforum.roblox.com/u/leoprad2006">
-    <img src="https://img.shields.io/badge/DevForum-00A2FF?style=for-the-badge&logo=roblox&logoColor=white&logoWidth=25" height="35" alt="DevForum" />
+    <img src="https://img.shields.io/badge/-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" height="40" alt="DevForum" />
   </a>
 </p>
 
