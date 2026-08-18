@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Pradyumna (Leo) 👋</h1>
+<h1 align="center">Hey, I'm Pradyumna 👋</h1>
 
 <p align="center">
   <strong>CS @ UT Dallas · Full-Stack Engineer · I build things from scratch</strong>
